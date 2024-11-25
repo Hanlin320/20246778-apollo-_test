@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/solution.h
+vector
+-
+
+/mnt/d/Desktop/surround_areas/src/main.cpp
+iostream
+-
+solution.h
+/mnt/d/Desktop/surround_areas/src/solution.h
+
+/mnt/d/Desktop/surround_areas/src/solution.cpp
+solution.h
+/mnt/d/Desktop/surround_areas/src/solution.h
+vector
+-
+cstddef
+-
+

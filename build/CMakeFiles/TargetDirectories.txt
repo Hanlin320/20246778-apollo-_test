@@ -1,3 +1,0 @@
-/mnt/d/Desktop/surround_areas/build/CMakeFiles/rebuild_cache.dir
-/mnt/d/Desktop/surround_areas/build/CMakeFiles/edit_cache.dir
-/mnt/d/Desktop/surround_areas/build/CMakeFiles/surround.dir
